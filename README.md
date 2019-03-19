@@ -1,13 +1,11 @@
-Grayscale Jekylls theme
-=========================
+#### Boxtoken is ethereum smart contract for our community
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+Boxtoken has been supported by Mew, Metamask, Trustwallet, Imtoken and other erc20 wallets.
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+### [Mew](https://myetherwallet.com/)
+### [Metamask](https://metamask.io/)
+### [Trustwallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
+### [Imtoken](https://play.google.com/store/apps/details?id=im.token.app)
+### and other erc20 wallets.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
