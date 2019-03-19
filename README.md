@@ -1,5 +1,5 @@
-#### Boxtoken is ethereum smart contract for our community
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Boxtoken is ethereum smart contract for our community
+=======================================================
 
 Boxtoken has been supported by Mew, Metamask, Trustwallet, Imtoken and other erc20 wallets.
 
