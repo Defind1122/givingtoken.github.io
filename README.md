@@ -1,6 +1,3 @@
-Giving token is ethereum smart contract for our community
-=======================================================
-
 Website [https://givingtoken.github.io/](https://givingtoken.github.io/)
 =======================================================
 
